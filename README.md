@@ -1,6 +1,5 @@
 sharing
 =======
 
-A @#$%#$T^#$^ repository for sharing @#$@ code with me. @#%@#ing Hooray!
+A repository for sharing code with me. Hooray!
 
-Another line.
